@@ -7,11 +7,11 @@
 - CDC 관련 정보는 찾아볼 것
 
 ### 코드 참조
-[Spring Cloud Contract 공식 샘플](https://github.com/spring-cloud-samples/spring-cloud-contract-samples)
+- [Spring Cloud Contract 공식 샘플](https://github.com/spring-cloud-samples/spring-cloud-contract-samples)
 
-[개른이님 블로그](https://dev-kidult.tistory.com/15)
+- [개른이님 블로그](https://dev-kidult.tistory.com/15)
 
-[개른이님 샘플코드](https://github.com/dev-kidult/spring-cloud-contract-study)
+- [개른이님 샘플코드](https://github.com/dev-kidult/spring-cloud-contract-study)
 
 
 ### 프로젝트 구조
